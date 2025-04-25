@@ -1,4 +1,5 @@
-import "./styles.css";
-import { greeting } from "./greeting.js";
+import { fib } from "./fib.js";
+import { merge } from "./merge.js";
 
-console.log(greeting);
+console.log(fib);
+console.log(merge);
