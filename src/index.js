@@ -1,5 +1,5 @@
-import { fib } from "./fib.js";
+import { fibs } from "./fibs.js";
 import { merge } from "./merge.js";
 
-console.log(fib);
+console.log(fibs(9));
 console.log(merge);
