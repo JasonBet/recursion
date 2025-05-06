@@ -4,4 +4,4 @@ import { mergeSort } from "./merge.js";
 
 console.log(fibs(9));
 console.log(fibsRec(9));
-console.log(mergeSort);
+console.log(mergeSort([105, 79, 100, 110]));
